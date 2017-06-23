@@ -1,7 +1,8 @@
 {
   "scripts": {
     "compile": [
-      "src/bin/grav install"
+      "src/bin/grav install",
+      "src/bin/gpm install zsimplex"
     ]
   },
   "require": {
