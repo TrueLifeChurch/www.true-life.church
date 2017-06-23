@@ -3,5 +3,8 @@
     "compile": [
       "src/bin/grav install"
     ]
+  },
+  "require": {
+    "ext-mbstring": "*"
   }
 }
