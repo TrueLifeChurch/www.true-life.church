@@ -2,6 +2,7 @@
   "scripts": {
     "compile": [
       "composer create-project getgrav/grav ~/webroot/grav",
+      "cd ~/webroot/grav",
       "src/bin/gpm install admin",
       "src/bin/gpm install zsimplex"
     ]
