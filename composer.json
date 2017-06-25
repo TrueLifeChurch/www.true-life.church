@@ -1,8 +1,8 @@
 {
   "scripts": {
     "compile": [
-      "php -C -f src/bin/grav install",
-      "php -C -f src/bin/gpm install zsimplex"
+      "php-cli src/bin/grav install",
+      "src/bin/gpm install zsimplex"
     ]
   },
   "require": {
