@@ -2,8 +2,8 @@
   "scripts": {
     "compile": [
       "composer create-project getgrav/grav ~/webroot/grav",
-      "php -C -f src/bin/gpm install admin -y",
-      "php -C -f src/bin/gpm install zsimplex -y"
+      "php -C -f src/bin/gpm install admin",
+      "php -C -f src/bin/gpm install zsimplex"
     ]
   },
   "require": {
