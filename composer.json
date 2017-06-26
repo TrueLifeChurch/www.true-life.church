@@ -2,14 +2,12 @@
   "scripts": {
     "compile": [
       "composer create-project getgrav/grav ~/webroot/grav",
-      "cd ~/webroot/grav",
-      "src/bin/gpm install admin",
-      "src/bin/gpm install zsimplex"
+      "php bin/gpm install admin -y",
+      "php bin/gpm install zsimplex -y"
     ]
   },
   "require": {
     "ext-mbstring": "*",
-    "ext-gd": "*",
-    "ext-APCu"
+    "ext-gd": "*"
   }
 }
