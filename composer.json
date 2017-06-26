@@ -9,6 +9,7 @@
   },
   "require": {
     "ext-mbstring": "*",
-    "ext-gd": "*"
+    "ext-gd": "*",
+    "ext-APCu"
   }
 }
