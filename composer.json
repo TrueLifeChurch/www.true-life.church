@@ -4,6 +4,7 @@
       "composer create-project getgrav/grav ~/webroot/grav",
       "cd src; php bin/gpm install devtools -y;",
       "cd src; php bin/gpm install zsimplex -y;",
+      "cd src; php bin/gpm install minimalist -y;",
       "cd src; php bin/gpm install admin -y;"
     ]
   },
