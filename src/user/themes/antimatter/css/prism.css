@@ -10,7 +10,7 @@ pre[class*="language-"] {
 	color: black;
 	text-shadow: 0 1px white;
 	direction: ltr;
-	text-align: left;
+	text-align: center;
 	white-space: pre;
 	word-spacing: normal;
 	word-break: normal;
