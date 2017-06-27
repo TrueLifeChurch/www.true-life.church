@@ -2,24 +2,31 @@
 title: Home
 ---
 
-# Grav is Running!
-## You have installed **Grav** successfully
+# True Life Church
+## An Apestolical Church of Jeseus Christ
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
 
 !!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
 
-### Find out all about Grav
+### Our Pastuers 
 
-* Learn about **Grav** by checking out our dedicated [Learn Grav](http://learn.getgrav.org) site.
-* Download **plugins**, **themes**, as well as other Grav **skeleton** packages from the [Grav Downloads](http://getgrav.org/downloads) page.
-* Check out our [Grav Development Blog](http://getgrav.org/blog) to find out the latest goings on in the Grav-verse.
+* Pastor - John Bower 
+* Assitant Pastor - Robert Thomas
 
-### Edit this Page
+### Our Services 
 
-To edit this page, simply navigate to the folder you installed **Grav** into, and then browse to the `user/pages/01.home` folder and open the `default.md` file in your [editor of choice](http://learn.getgrav.org/basics/requirements).  You will see the content of this page in [Markdown format](http://learn.getgrav.org/content/markdown).
+*Sunday Bible Study - 10:00 AM to 11:00 AM
 
-### Create a New Page
+*Sunday Service - 11:00 AM to 12:00 PM
+
+*Wednesday Bible Study - 7:30 PM - 8:30 PM
+
+### Curch Contact Information
+
+222222 Chula Road 
+Amelia, VA 23002
+
+(804) 561 - 2222
 
 Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
 
