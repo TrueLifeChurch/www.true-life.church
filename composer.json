@@ -3,6 +3,7 @@
     "compile": [
       "composer create-project getgrav/grav ~/webroot/grav",
       "cd src; php bin/gpm install admin -y;",
+      "cd src; php bin/gpm install devtools -y;",
       "cd src; php bin/gpm install zsimplex -y;"
     ]
   },
