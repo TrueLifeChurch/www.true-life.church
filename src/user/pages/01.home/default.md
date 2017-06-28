@@ -13,8 +13,8 @@ We belive in the Bible standard of full salation, which is repentance, baptism i
 
 #### Our Services 
 
-*Sunday Bible Study - 10:00 AM to 11:00 AM
+Sunday Bible Study - 10:00 AM to 11:00 AM
 
-*Sunday Service - 11:00 AM to 12:00 PM
+Sunday Service - 11:00 AM to 12:00 PM
 
-*Wednesday Bible Study - 7:30 PM - 8:30 PM 
+Wednesday Bible Study - 7:30 PM - 8:30 PM 
