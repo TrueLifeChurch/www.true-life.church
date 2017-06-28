@@ -20,18 +20,17 @@ title: Home
 
 *Wednesday Bible Study - 7:30 PM - 8:30 PM  
 
+---
+title: Contact Us
+---
+# True Life Church
 
-        ---
-        title: Contact Us
-        ---
-        # My New Page!
-
-        ###Curch Contact Information
+###Curch Contact Information
         
-        Pastuer - John Bower              Assistant Pastuer - Robert Thomas
-        
-        222222 Chula Road
-        Amelia, VA 23002
+Pastuer - John Bower              Assistant Pastuer - Robert Thomas
 
-        (804) 561 - 2222
+222222 Chula Road
+Amelia, VA 23002
+
+(804) 561 - 2222
  
