@@ -34,7 +34,7 @@ b, strong, label, th {
 
 #container {
   min-height: 100%;
-  position: relative; }
+  position: static; }
 
 .fullwidth #body {
   padding-left: 0;
@@ -104,7 +104,7 @@ b, strong, label, th {
       font-size: 2rem;
       line-height: 2rem;
       margin: 0;
-      text-transform: uppercase; }
+      text-transform: none; }
       #header #logo h3 a {
         color: #444; }
   #header #navbar {
@@ -197,7 +197,7 @@ b, strong, label, th {
             border: 1px solid #ececec;
             border-top: 0;
             min-width: 12rem;
-            text-align: left;
+            text-align: center;
             z-index: 999;
             left: -1px;
             display: none; }
