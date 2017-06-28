@@ -3,7 +3,7 @@ title: Contact Us
 ---
 
 
-#Curch Contact Information
+#Church Contact Information
 
   
 
