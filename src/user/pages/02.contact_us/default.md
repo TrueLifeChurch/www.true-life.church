@@ -7,9 +7,9 @@ title: Contact Us
 
   
 
-**Pasteur of the Church** - John Bower
+**Pastor of the Church** - John Bower
          
-**Assistant Pasteur of the Church** - Robert Thomas
+**Assistant Pastor of the Church** - Robert Thomas
 
 True Life Church
 11360 Chula Road
