@@ -1,6 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Montserrat:400|Raleway:300,400,600|Inconsolata);
 #header #logo h3, #header #navbar .panel-activation, #footer p {
   position: relative;
+  text-align: center;
   top: 50%;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
@@ -921,3 +922,8 @@ ul.pagination {
   margin-bottom: 2rem; }
 
 /*# sourceMappingURL=template.css.map */
+
+/* Custom Shit */
+p {
+  text-align: center;
+}
