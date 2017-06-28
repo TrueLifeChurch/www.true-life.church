@@ -1,7 +1,6 @@
 @import url(//fonts.googleapis.com/css?family=Montserrat:400|Raleway:300,400,600|Inconsolata);
 #header #logo h3, #header #navbar .panel-activation, #footer p {
-  position: relative;
-  text-align: center;
+  position: relative;;
   top: 50%;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
@@ -298,6 +297,7 @@ html, body, button, input, select, textarea, .pure-g, .pure-g [class*="pure-u"] 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
   font-weight: 400;
+  text-align: center;
   text-rendering: optimizeLegibility;
   letter-spacing: -0px; }
 
