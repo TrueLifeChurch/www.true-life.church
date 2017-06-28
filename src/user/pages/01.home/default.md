@@ -7,13 +7,13 @@ title: Home
 
 
 !!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
-
-### Our Pastuers 
+<p align="center">
+#### Our Pastuers 
 
 * Pastor - John Bower 
 * Assitant Pastor - Robert Thomas
 
-### Our Services 
+#### Our Services 
 
 *Sunday Bible Study - 10:00 AM to 11:00 AM
 
@@ -21,12 +21,14 @@ title: Home
 
 *Wednesday Bible Study - 7:30 PM - 8:30 PM
 
-### Curch Contact Information
+#### Curch Contact Information
 
 222222 Chula Road 
 Amelia, VA 23002
 
 (804) 561 - 2222
+
+</p>
 
 Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
 
