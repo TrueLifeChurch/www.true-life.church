@@ -3,7 +3,7 @@ title: About Us
 ---
 
 # True Life Church
-## An Apestolical Church of Jesus Christ
+## Apostolic Church of Jesus Christ
 
 
 ![](LOGO%20HEADER.jpg)
