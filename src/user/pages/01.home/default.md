@@ -6,6 +6,8 @@ title: About Us
 ## An Apestolical Church of Jesus Christ
 
 
+![](LOGO%20HEADER.jpg)
+
 
 #### Our Statment of Faith
 
