@@ -12,7 +12,7 @@ title: Contact Us
 **Assistant Pasteur of the Church** - Robert Thomas
 
 True Life Church
-222222 Chula Road
+11360 Chula Road
 Amelia, VA 23002
 
-(804) 561 - 2222
+(804) 561 - 5317
