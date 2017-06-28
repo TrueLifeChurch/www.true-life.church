@@ -301,6 +301,11 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
   letter-spacing: -0px; }
 
+h2, h3, h4, h5, h6 {
+  padding-bottom: 15px;
+  padding-top: 15px; }
+
+
 h1 {
   font-size: 3.2rem; }
   @media only all and (max-width: 47.938em) {
@@ -923,7 +928,7 @@ ul.pagination {
 
 /*# sourceMappingURL=template.css.map */
 
-/* Custom Shit */
+/* Custom center all text in the body of the page */
 p {
   text-align: center;
 }
