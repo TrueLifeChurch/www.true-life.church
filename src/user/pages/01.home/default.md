@@ -1,36 +1,20 @@
 ---
-title: Home
+title: About Us
 ---
 
 # True Life Church
-## An Apestolical Church of Jeseus Christ
+## An Apestolical Church of Jesus Christ
 
 
-### Our Pastuers 
 
-* Pastor - John Bower 
-* Assitant Pastor - Robert Thomas  
+#### Our Statment of Faith
 
+We belive in the Bible standard of full salation, which is repentance, baptism in water by immersion in the name of the Lord Jesus Christ for the remission of sins, the baptism of the Holly Gost with the initial sign of speaking with other tongues as the Spirit gives the utterance, and living a godly life of holiness.
 
-### Our Services 
+#### Our Services 
 
 *Sunday Bible Study - 10:00 AM to 11:00 AM
 
 *Sunday Service - 11:00 AM to 12:00 PM
 
-*Wednesday Bible Study - 7:30 PM - 8:30 PM  
-
----
-title: Contact Us
----
-# True Life Church
-
-###Curch Contact Information
-        
-Pastuer - John Bower              Assistant Pastuer - Robert Thomas
-
-222222 Chula Road
-Amelia, VA 23002
-
-(804) 561 - 2222
- 
+*Wednesday Bible Study - 7:30 PM - 8:30 PM 
