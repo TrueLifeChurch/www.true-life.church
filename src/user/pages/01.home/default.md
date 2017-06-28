@@ -11,16 +11,20 @@ title: Home
 #### Our Pastuers 
 
 * Pastor - John Bower 
-* Assitant Pastor - Robert Thomas
+* Assitant Pastor - Robert Thomas  
+</p>  
 
+<p align="center">
 #### Our Services 
 
 *Sunday Bible Study - 10:00 AM to 11:00 AM
 
 *Sunday Service - 11:00 AM to 12:00 PM
 
-*Wednesday Bible Study - 7:30 PM - 8:30 PM
+*Wednesday Bible Study - 7:30 PM - 8:30 PM  
+</p>  
 
+<p align="center">
 #### Curch Contact Information
 
 222222 Chula Road 
