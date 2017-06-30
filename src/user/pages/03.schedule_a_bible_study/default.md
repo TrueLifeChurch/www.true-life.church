@@ -10,3 +10,5 @@ Ever had a Bible Study? If not, we will be more than happy to work out a date an
 Brother Thomas:
 
 804-385-2851
+
+retelcom@msn.com
