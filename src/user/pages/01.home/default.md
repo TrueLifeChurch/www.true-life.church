@@ -6,7 +6,7 @@ title: About Us
 ## Apostolic Church of Jesus Christ
 
 
-![](LOGO%20HEADER.jpg)
+![](our_worship_center.jpg)
 
 
 #### Our Statment of Faith
@@ -15,8 +15,12 @@ We believe in the Bible standard of full salvation, which is repentance, baptism
 
 #### Our Services 
 
-Sunday Bible Study - 10:00 AM to 11:00 AM
+**Sunday Services**
 
-Sunday Service - 11:00 AM to 12:00 PM
+Bible School - 10:00 AM to 11:00 AM
 
-Wednesday Bible Study - 7:30 PM - 8:30 PM 
+Worship Service - 11:00 AM to 12:00 PM
+
+**Wednesday Services** 
+
+Bible Study - 7:30 PM - 8:30 PM
