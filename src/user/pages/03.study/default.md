@@ -1,5 +1,5 @@
 ---
-titel: Schedule a Bible Study
+title: Schedule a Bible Study
 ---
 
 
