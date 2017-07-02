@@ -3,6 +3,7 @@
     "compile": [
       "cd src; php bin/grav clear-cache;",
       "composer create-project getgrav/grav ~/webroot/grav",
+      "cd src; php bin/gpm uninstall admin -y;",
       "cd src; php bin/gpm install devtools -y;",
       "cd src; php bin/gpm install short-codecore -y;",
       "cd src; php bin/gpm install minimalist -y;"
