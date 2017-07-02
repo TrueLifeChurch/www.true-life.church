@@ -6,6 +6,7 @@
       "cd src; php bin/gpm uninstall admin -y;",
       "cd src; php bin/gpm install devtools -y;",
       "cd src; php bin/gpm install short-codecore -y;",
+      "cd src; php bin/gpm uninstall minimalist -y;",
       "cd src; php bin/gpm install minimalist -y;",
       "cd src; php bin/grav clear-cache"
     ]
