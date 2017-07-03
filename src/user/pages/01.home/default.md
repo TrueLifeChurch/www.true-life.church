@@ -13,11 +13,21 @@ title: About Us
 
 We believe in the Bible standard of full salvation, which is repentance, baptism in water by immersion in the name of the Lord Jesus Christ for the remission of sins, the baptism of the Holy Ghost with the initial sign of speaking with other tongues as the Spirit gives the utterance, and living a godly life of holiness.
 
+### Acts 2:38
+
+!!!`Then Peter said unto them, "Repent, and be baptized every one of you in the nameof Jesus Christ for the remission of sins, and ye shall recive the gift of the Holy Ghost.`
+
+
+### John 3:5-7
+
+!!!`Jesus answered, Verily, verily, I say unto thee, "Except a man be born of water and of the Spir'-it, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spit'-it is the spirit. Marvael not that I said unto thee, Ye must be born again.`
+!!!`
+
 #### Our Services 
 
 **Sunday Services**
 
-Bible School - 10:00 AM to 11:00 AM
+Sunday School - 10:00 AM to 11:00 AM
 
 Worship Service - 11:00 AM to 12:00 PM
 
