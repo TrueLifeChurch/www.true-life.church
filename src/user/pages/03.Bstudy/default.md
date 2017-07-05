@@ -10,6 +10,6 @@ Robert Thomas:
 
 804-385-2851
 
-<a href="mailto:retelcom@msn.com"></a>retelcom@msn.com 
+<retelcom@msn.com>
 
 
