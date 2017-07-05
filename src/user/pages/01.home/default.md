@@ -19,14 +19,3 @@ We believe in the Bible standard of full salvation, which is repentance, baptism
 ### John 3:5-7
 Jesus answered, Verily, verily, I say unto thee, "Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is the spirit. Marvel not that I said unto thee, Ye must be born again.
 
-#### Our Services 
-
-**Sunday Services**
-
-Sunday School - 10:00 AM to 11:00 AM
-
-Worship Service - 11:00 AM to 12:00 PM
-
-**Wednesday Services** 
-
-Bible Study - 7:30 PM - 8:30 PM
