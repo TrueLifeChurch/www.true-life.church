@@ -29,6 +29,7 @@ types:
     thumb: media/thumb-gif.png
     mime: image/gif
 
+
   svg:
     type: vector
     thumb: media/thumb.png
