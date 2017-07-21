@@ -4,8 +4,8 @@ Disallow: /bin/
 Disallow: /cache/
 Disallow: /grav/
 Disallow: /logs/
-Disallow: /system/
+Allow: /system/
 Disallow: /vendor/
-Disallow: /user/
+Allow: /user/
 Allow: /user/pages/
 Allow: /user/themes/
