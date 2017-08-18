@@ -1,4 +1,4 @@
-title: Grav                                 # Name of the site
+title: True Life Church                               # Name of the site
 default_lang: en                            # Default language for site (potentially used by theme)
 
 author:
@@ -8,7 +8,7 @@ author:
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 
 metadata:
-  description: 'My Grav Site'               # Site description
+  description: 'True Life Chruch Amelia VA'               # Site description
 
 summary:
   enabled: true                             # enable or disable summary of page
